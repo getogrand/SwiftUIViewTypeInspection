@@ -46,3 +46,7 @@ struct MyView: View {
   }
 }
 ```
+
+## Credits
+
+[Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/), page 10, 2020-12-15 ver.
